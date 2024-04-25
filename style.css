@@ -81,7 +81,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url("file:///D:/portfoliowebsite/images/home.jpg") no-repeat;
+    background: url("/images/home.jpg") no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -121,7 +121,7 @@ section {
 .home-content .btn-box {
     display: flex;
     justify-content: space-between;
-    width: 345px;
+    width: 400px;
     height: 50px;
 }
 
@@ -191,7 +191,7 @@ color: #081b29;
 .home-sci  {
     position: absolute;
     bottom: 40px;
-    width: 170px;
+    width: 200px;
     display: flex;
     justify-content: space-between;
 }
